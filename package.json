@@ -1,7 +1,7 @@
 {
-  "name": "trip-planning-with-react-beautifuldnd",
+  "name": "horizontal-dragndrop-with-react-beautiful-dnd",
   "version": "1.0.0",
-  "description": "",
+  "description": "A snippet of code I wrote for a trip planning feature of SPLOR Travel using React and TypeScript.",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
